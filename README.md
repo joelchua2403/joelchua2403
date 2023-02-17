@@ -110,6 +110,7 @@ Here are some ideas to get you started:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joelchua2403&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 <figure><embed src="https://wakatime.com/share/@fbb64a78-0990-423b-9e45-2c8fcf2daf06/74ee6485-24c6-47bf-b8c7-7096f94032a1.svg"></embed></figure>
 
 
