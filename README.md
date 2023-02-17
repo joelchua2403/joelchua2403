@@ -111,6 +111,10 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joelchua2403&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> VScode Stats </b>
+<br>
+
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@fbb64a78-0990-423b-9e45-2c8fcf2daf06/54f3d4e3-53d9-4d71-8844-758b46516fa7.png" /></a>
 
 <br>
