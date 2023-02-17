@@ -129,7 +129,7 @@ Here are some ideas to get you started:
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
-<a href="linkedin.com/in/joel-chua-7b394b245">
+<a href="https://www.linkedin.com/in/joel-chua-7b394b245/">
   <img align="left" alt="Joel's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
