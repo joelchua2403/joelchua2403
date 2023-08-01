@@ -108,8 +108,7 @@ Here are some ideas to get you started:
 
 -----
 
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joelchua2403)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> VScode Stats </b>
