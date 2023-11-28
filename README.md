@@ -107,7 +107,7 @@ Here are some ideas to get you started:
 <br>
 
 -----
-
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Visual Studio Stats </b>
 <!--START_SECTION:waka-->
 
 ```txt
