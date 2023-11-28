@@ -108,7 +108,9 @@ Here are some ideas to get you started:
 
 -----
 
+<!--START_SECTION:waka-->
 
+<!--END_SECTION:waka-->
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> VScode Stats </b>
