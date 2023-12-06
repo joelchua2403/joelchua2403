@@ -111,9 +111,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-CSHTML   2 hrs 11 mins   ███████████▓░░░░░░░░░░░░░   46.46 %
-Binary   2 hrs 6 mins    ███████████▒░░░░░░░░░░░░░   44.83 %
-C#       24 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 %
+Binary   3 hrs 38 mins   █████████▓░░░░░░░░░░░░░░░   38.47 %
+CSHTML   3 hrs 23 mins   █████████░░░░░░░░░░░░░░░░   35.79 %
+C#       2 hrs 26 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.74 %
 ```
 
 <!--END_SECTION:waka-->
