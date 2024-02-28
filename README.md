@@ -111,10 +111,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C#           54 mins         ███████████████▒░░░░░░░░░   61.21 %
-Binary       24 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.04 %
-CSHTML       10 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.74 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
