@@ -111,9 +111,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python     3 hrs 37 mins         ███████████████████████▓░   94.77 %
-Markdown   7 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
-Bash       4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+Python     3 hrs 41 mins         █████████████████████▒░░░   85.32 %
+Markdown   33 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   12.75 %
+Bash       4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
 Text       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
