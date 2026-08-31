@@ -110,11 +110,21 @@ Here are some ideas to get you started:
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Visual Studio Stats </b>
 <!--START_SECTION:waka-->
 
-```txt
-Python     3 hrs 41 mins         █████████████████████▒░░░   85.32 %
-Markdown   33 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   12.75 %
-Bash       4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
-Text       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+```rust
+From: 05 February 2023 - To: 29 August 2026
+
+Total Time: 486 hrs 27 mins
+
+JavaScript       171 hrs 11 mins       >>>>>>>>>----------------   35.09 %
+C#               80 hrs 44 mins        >>>>---------------------   16.55 %
+CSHTML           57 hrs 18 mins        >>>----------------------   11.74 %
+Binary           54 hrs 45 mins        >>>----------------------   11.22 %
+Java             52 hrs 15 mins        >>>----------------------   10.71 %
+Python           16 hrs 37 mins        >------------------------   03.41 %
+Markdown         7 hrs 49 mins         -------------------------   01.60 %
+TypeScript       5 hrs 59 mins         -------------------------   01.23 %
+CSS              5 hrs 52 mins         -------------------------   01.20 %
+Objective-C      4 hrs 35 mins         -------------------------   00.94 %
 ```
 
 <!--END_SECTION:waka-->
